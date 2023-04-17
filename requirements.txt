@@ -1,0 +1,10 @@
+pybluez
+bluetooth
+json
+os
+platform
+sqlite3
+subprocess
+threading
+time
+signal
